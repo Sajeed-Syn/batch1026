@@ -3,3 +3,5 @@ Month is July
 Year is 2022
 It is raining heavilty
 Lnt is in Mhape
+Day is 12
+
